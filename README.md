@@ -12,7 +12,7 @@ Diffusing "Binary Bombs" using gdb
     *   You may use the debugger, `gdb`, `objdump`, and any other tools that you wish, to disassemble the executable file and determine the exact nature of the input that each function demands.
 *   Getting the Files
     -----------------
-    *   The files you need for this lab are included within an archive file named `bomblab-handout.tar`. It is posted on D2L, but you may also copy it on the class server from `/home/DPU/kheart/bomblab-handout.tar`.
+    *   The files you need for this lab are included within an archive file named `bomblab-handout.tar`.
     *   You can unpack the archive by using the `tar` command as follows: 
         $\> tar xvf bomblab-handout.tar        
     *   A new directory named "`bomblab`" will be created. There are two files in that directory:
@@ -20,7 +20,6 @@ Diffusing "Binary Bombs" using gdb
         2.  `bomb.c` \-\- the original source code for the `main` function in `bomblab`.
 *   Evaluation
     ----------
-    
     *   As you determine the correct inputs for each function, you must enter them into a file, named "solution.txt".
     *   You can run the program with the solution file as the sole command line argument, as follows:
         
